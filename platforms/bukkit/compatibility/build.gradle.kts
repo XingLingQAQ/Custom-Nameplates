@@ -1,5 +1,5 @@
 plugins {
-    id("io.github.goooler.shadow.shadow-gradle-plugin") version "8.1.8"
+    id("io.github.goooler") version "8.1.8"
 }
 
 repositories {
