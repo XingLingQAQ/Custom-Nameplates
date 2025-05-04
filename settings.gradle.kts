@@ -3,7 +3,6 @@ pluginManagement {
         gradlePluginPortal()
         google()
         mavenCentral()
-        maven { url 'https://maven.aliyun.com/repository/gradle-plugin' }
     }
 }
 rootProject.name = "CustomNameplates"
